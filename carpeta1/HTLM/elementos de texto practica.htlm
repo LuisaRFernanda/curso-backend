@@ -1,0 +1,10 @@
+<head>
+    <!-- Juego de caracteres para caracteres especiales -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--title sirve para poenr el titulo de nuestro sitio web  -->
+    <!-- Los titulos deben tener entre 55 y 65 caracteres -->
+    <title>Etiquetas Multimedia</title>
+    <!-- Las descripciones deben tener menos de 195 caracteres -->
+    <meta name="description" content="Pagina web para aprender etiquetas multimedia en HTML">
+</head>
